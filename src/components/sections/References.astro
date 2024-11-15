@@ -1,17 +1,14 @@
 ---
 import Section from "../Section.astro"
 
-import { work } from "@cv"
+import { references } from "@cv"
 ---
 
-<Section title="Work Experience">
-  <ul>
+<Section title="References">
+  <ul class="mainlist">
     {
-      work.map(
-        ({ name, startDate, endDate, position, summary, highlights, url }) => {
-          const startYear = new Date(startDate).getFullYear()
-          const endYear =
-            endDate != null ? new Date(endDate).getFullYear() : "Actual"
+      references.map(
+        ({ name, type, position, contact, url }) => {
 
           return (
             <li>
@@ -23,26 +20,21 @@ import { work } from "@cv"
                         {name}
                       </a>
                     </h3>
-                    <h4>{position}</h4>
+                    <h4>{type}</h4>
                   </div>
-
+                  
                   <div>
-                    <time 
-                      datetime={startDate}
-                      data-title={startDate}>
-                        {startYear}
-                    </time>
-                    {" - "}
-                    <time 
-                      datetime={endDate}
-                      data-title={endDate}>
-                        {endYear}
-                    </time>
+                    <ul>
+                      {
+                        contact.map((c) => <li class='contact'>{c}</li>)
+                      }
+                    </ul>
                   </div>
+                  
                 </header>
 
                 <footer>
-                  <p>{summary}</p>
+                  <p>{position}</p>
                 </footer>
               </article>
             </li>
@@ -54,7 +46,7 @@ import { work } from "@cv"
 </Section>
 
 <style>
-  ul {
+  ul.mainlist {
     display: flex;
     flex-direction: column;
     gap: 32px;
@@ -85,7 +77,7 @@ import { work } from "@cv"
     margin-bottom: 4px;
   }
 
-  time {
+  li.contact {
     color: #555;
     font-size: 0.85rem;
     min-width: 102px;

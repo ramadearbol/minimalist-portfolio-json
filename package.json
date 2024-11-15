@@ -13,6 +13,7 @@
     "@astrojs/check": "0.4.1",
     "astro": "4.3.2",
     "hotkeypad": "0.1.0",
+    "minimalist-portfolio-json": "file:",
     "typescript": "5.3.3"
   }
 }
