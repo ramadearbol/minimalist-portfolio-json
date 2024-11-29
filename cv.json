@@ -133,44 +133,37 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Basic",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Basic",
       "keywords": [
         "Web development", "Frontend", "Diseño Responsive"
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "Java",
       "level": "Master",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "", "", "", ""
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "#C",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "", "", "", ""
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "Phyton",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "", "", "", ""
       ]
     },
     {
@@ -181,31 +174,38 @@
       ]
     },
     {
-      "name": "Git",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Version control", "Colaboración", "Source code"
+        "", "", "", ""
       ]
     },
     {
-      "name": "GitHub",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
+        "", "", ""
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "", "", "", ""
       ]
     },
     {
-      "name": "React",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        "", "", "", "", ""
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "", "", "", ""
       ]
     }
   ],
