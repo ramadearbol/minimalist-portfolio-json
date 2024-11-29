@@ -249,45 +249,45 @@
       "url": ""
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "name": "",
+      "isActive": false,
+      "description": "",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "",
+        ""
       ],
-      "url": "https://codember.dev"
+      "url": ""
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "name": "",
+      "isActive": false,
+      "description": "",
       "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
+        "",
+        ""
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
+      "name": "",
+      "isActive": false,
+      "description": "",
       "highlights": [
-        "100% free",
-        "+500 community solutions"
+        "",
+        ""
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "name": "",
+      "description": "",
       "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
+        "",
+        ""
       ],
-      "url": "https://miduconf.com"
+      "url": ""
     }
   ]
 }
