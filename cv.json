@@ -112,23 +112,23 @@
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": "",
+    "date": "",
+    "awarder": "",
+    "summary": ""
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "",
+    "date": "",
+    "issuer": "",
+    "url": ""
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "url": "",
+    "summary": ""
   }],
   "skills": [
     {
@@ -220,10 +220,10 @@
     }
   ],
   "interests": [{
-    "name": "Wildlife",
+    "name": "",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "",
+      ""
     ]
   }],
   "projects": [
