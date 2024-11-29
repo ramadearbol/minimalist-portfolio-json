@@ -89,26 +89,26 @@
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": "",
+    "position": "",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      ""
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
+    "institution": "Santa Joaquina de Vedruna",
+    "url": "https://vedrunasevilla.org/",
+    "area": " MULTI-PLATFORM APPLICATION DEVELOPMENT",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "startDate": "2023-09-10",
+    "endDate": "2025-06-01",
+    "score": "",
     "courses": [
-      "DB1101 - Basic SQL"
+      ""
     ]
   }],
   "awards": [{
