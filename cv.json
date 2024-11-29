@@ -9,7 +9,7 @@
     "summary": "I am a recent graduate with a Higher Degree in Multiplatform Application Development. Passionate about programming and continuously learning, I am eager to apply my skills and grow in a professional setting. I am looking for a position where I can learn more about the business world and where I can  improve my programming skills.",
     "location": {
       "address": "",
-      "postalCode": "08820",
+      "postalCode": "41410",
       "city": "Seville",
       "countryCode": "ES",
       "region": "Spain"
@@ -41,7 +41,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Started the company"
+        ""
       ]
     },
     {
@@ -52,7 +52,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Started the company"
+        ""
       ]
     },
     {
@@ -62,28 +62,28 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Started the company"
+        ""
       ]
     }
   ],
   "references": [
     {
-      "name": "Joaquin Borrego Fernández",
-      "type": "Academic Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "name": "Liam Anderson",
+      "type": "Professional Reference",
+      "url": "",
+      "position": "Higher Technician in Multi-platform Application Development",
       "contact": [
-        "Phone: +34611223345",
+        "Phone: 555-789-1234",
         "Email: VY5q8@example.com"
       ]
     },
     {
-      "name": "Alejandro Téllez",
+      "name": "Sophia Carter",
       "type": "Professional Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
+      "url": "",
+      "position": "Higher Technician in Marketing and Advertising",
       "contact": [
-        "Phone: +34611223344",
+        "Phone: 555-456-7890",
         "Email: Va5q8@example.com"
       ]
     }
@@ -228,25 +228,25 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "name": "",
+      "isActive": false,
+      "description": "",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "",
+        ""
       ],
-      "url": "https://mars.codes"
+      "url": ""
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "name": "",
+      "isActive": false,
+      "description": "",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "",
+        "",
+        ""
       ],
-      "url": "https://advent.js/dev"
+      "url": ""
     },
     {
       "name": "Codember",
